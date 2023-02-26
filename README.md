@@ -1,0 +1,1 @@
+The objective of this project is to implement the BigInteger abstract data type (ADT) in C++ by creating a new class that represents arbitrarily large integers. The BigInteger class will use a list of longs to store the magnitude of the number and an integer to represent its sign. The implementation will be based on the algorithms used for long arithmetic.
