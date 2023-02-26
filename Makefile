@@ -1,5 +1,4 @@
 #------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 6
 #
 #  make                     makes Arithmetic
 #  make BigIntegerClient    makes BigIntegerClient
